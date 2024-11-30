@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dessert Clicker app
 =====================
 
@@ -27,3 +28,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+=======
+# MyDessertClickerTarea2
+>>>>>>> 15f1a0e30552ad5ab20a5bed4217ae9fa3c240d3
